@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-	<link rel="stylesheet" type="text/css" href="<?= base_url("css/bootstrap.css") ?> ">
+	
 </head>
 <body>
 	<div class="container">
@@ -89,9 +89,6 @@
 				));
 				echo form_close();
 			?>
-			
-
-		
 	</div>
 </body>
 </html>
